@@ -1,0 +1,10 @@
+{
+  "id": "telugu-anime",
+  "name": "Telugu Anime",
+  "description": "Telugu-language anime provider for Nuvio",
+  "version": "1.0.0",
+  "author": "Tony stark",
+  "supportedTypes": ["movie", "tv", "anime"],
+  "filename": "providers/telugu-anime.js",
+  "enabled": true
+}
